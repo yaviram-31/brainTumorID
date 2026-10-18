@@ -1,7 +1,7 @@
 # brainTumorID
 Primitive algorithm for identifying meningiomas in an MRI scan of a brain. 
 
-The program utilizes the MATLAB image processing toolkit to:
+The program utilizes the MATLAB Image Processing Toolkbox to:
 
 1. emphasize any large and solid shapes (if there are any)
 2. binarize the image
