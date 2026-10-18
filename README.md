@@ -1,5 +1,5 @@
 # brainTumorID
-Primitive algorithm for identifying meningiomas in an MRI scan of a brain. 
+Primitive algorithm for identifying meningiomas in MRI scans of a brain. 
 
 The program utilizes the MATLAB Image Processing Toolkbox to:
 
