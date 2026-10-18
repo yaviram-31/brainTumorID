@@ -8,5 +8,5 @@ The program utilizes the MATLAB image processing toolkit to:
 3. take the row sum, and if any point is a very prominent maximum it is identified as a meningioma
 4. if a tumor is identified, the boolean isTumor will be True. Otherwise it is False.
 
-MRI photo dataset was found at:
+MRI scan dataset was found at:
 https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset
