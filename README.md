@@ -10,3 +10,6 @@ The program utilizes the MATLAB Image Processing Toolkbox to:
 
 MRI scan dataset was found at:
 https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset
+
+Disclaimer:
+This is for education and research only. It is not a medical diagnostic tool.
